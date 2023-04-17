@@ -1,5 +1,5 @@
 {
-    "name": "LED_Display - TM1637",
+    "name": "LED Display + měření teploty",
     "description": "",
     "dependencies": {
         "core": "*",
